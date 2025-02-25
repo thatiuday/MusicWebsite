@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your piano journey with this easy-to-follow beginner's course.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1513883049090-d0b7439799bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Violin Essentials",
+      "slug": "violin-essentials",
+      "description": "Master the fundamentals of violin playing with step-by-step lessons.",
+      "price": 89.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Techniques",
+      "slug": "drumming-techniques",
+      "description": "Develop rhythm and control with our structured drumming lessons.",
+      "price": 69.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Bass Guitar Basics",
+      "slug": "bass-guitar-basics",
+      "description": "Learn the foundation of bass playing with practical exercises.",
+      "price": 89.99,
+      "instructor": "Chris Wilson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory 101",
+      "slug": "music-theory-101",
+      "description": "Understand the fundamentals of music theory in a structured way.",
+      "price": 59.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 7,
+      "title": "Advanced Songwriting",
+      "slug": "advanced-songwriting",
+      "description": "Enhance your songwriting skills with advanced techniques.",
+      "price": 99.99,
+      "instructor": "David Clark",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 8,
+      "title": "Singing Mastery",
+      "slug": "singing-mastery",
+      "description": "Improve your vocal range and control with professional singing techniques.",
+      "price": 109.99,
+      "instructor": "Jessica White",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 9,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Learn the art of improvising in jazz with practical exercises.",
+      "price": 119.99,
+      "instructor": "Robert Hall",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 10,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Produce electronic music using industry-standard software and techniques.",
+      "price": 129.99,
+      "instructor": "Laura Green",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
